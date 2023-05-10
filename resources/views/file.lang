@@ -1,0 +1,2 @@
+__('products.empty') => No Products Found
+route('products.index') => 'products'
